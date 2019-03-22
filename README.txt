@@ -1,12 +1,14 @@
 NAME
 
-Notepad++ Speech Pluing
+Notepad++ Speech Plugin
 
 
 DESCRIPTION
 
 The original plugin was posted here:
 https://sourceforge.net/projects/npp-plugins/files/SpeechPlugin/
+
+Uses Windows' Text-To-Speech engine to read Notepad++ documents.
 
 
 COMPILING
